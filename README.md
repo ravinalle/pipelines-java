@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ravinalle12082019/firstAzureDevOpsProject/_apis/build/status/ravinalle.pipelines-java?branchName=master)](https://dev.azure.com/ravinalle12082019/firstAzureDevOpsProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
